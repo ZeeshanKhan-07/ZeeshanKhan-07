@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Zeeshan Khan
-🚀 Passionate Backend Developer | Aspiring Full Stack Web Developer<br>🌱 Currently learning Java Web Development<br>💡 Specialized in Java, Spring Boot, Servlets, API Development, MySQL, PHP, C++, Python<br>🧠 Strong in Data Structures & Algorithms (DSA) | Problem Solver<br>🎯 Focused on building scalable, secure, and high-performance applications<br>🔍 Exploring Frontend Development to become a well-rounded Full Stack Developer
+🚀 Passionate Backend Developer | Aspiring Full Stack Web Developer<br>🌱 Currently learning Java Web Development<br>💡 Specialized in Java, Spring Boot, Servlets, API Development, MySQL, JDBC<br>🧠 Strong in Data Structures & Algorithms (DSA) | Problem Solver<br>🎯 Focused on building scalable, secure, and high-performance applications<br>🔍 Exploring Frontend Development to become a well-rounded Full Stack Developer
 
 
 ## 🌐 Socials:
