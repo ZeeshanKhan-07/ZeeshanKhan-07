@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Zeeshan Khan
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=FFC800&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hiii+%F0%9F%91%8B+I'm+Zeeshan+Khan%2C+Software+Developer&duration=4000" alt="Typing SVG" />
+</h1>
 # 💫 About Me:
 🚀 Backend-Focused Full Stack Developer | Java & Spring Boot Specialist<br>🌱 Building Scalable Full Stack Applications with Spring Boot & React<br>💡 Skilled in Java, Spring Boot, REST APIs, Hibernate, MySQL<br>⚛️ Working with ReactJS for dynamic and responsive frontend development<br>🧠 Strong in Data Structures & Algorithms (DSA) | Problem Solver<br>🎯 Focused on building secure, scalable, and high-performance backend systems<br>🔍 Passionate about System Design & Modern Web Architectures
 
