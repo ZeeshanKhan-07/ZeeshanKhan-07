@@ -6,16 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=BCA+Graduate+%7C+Software+Developer" alt="Typing SVG" />
 </h3>
 
-## About Me
+### About Me
 #### Building products that people actually use.
 #### Building AI-powered full-stack products that solve real-world problems.
 
-## Socials:
+### Socials
 - **» LinkedIn:** https://www.linkedin.com/in/zeeshan-dev07/
 - **» LeetCode:** https://leetcode.com/u/leet_zeeshan/
 - **» Email:** zeeshankhanbca26@gmail.com
 
-## Skills & Tools
+### Skills & Tools
 
 - **» Programming Languages:** Java, Python, JavaScript, TypeScript
 - **» Frameworks & Libraries:** Spring Boot, Spring Security (JWT, OAuth2), Node.js, Express.js, React.js, Tailwind CSS, GSAP
