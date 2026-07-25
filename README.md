@@ -7,13 +7,17 @@
 </h3>
 
 ## About Me
-#### Building products that people actually use.
-#### Building AI-powered full-stack products that solve real-world problems.
+
+```text
+ Building products that people actually use.
+ Building AI-powered full-stack products that solve real-world problems.
+```
 
 ## Socials
 - **» LinkedIn:** https://www.linkedin.com/in/zeeshan-dev07/
 - **» LeetCode:** https://leetcode.com/u/leet_zeeshan/
 - **» Email:** zeeshankhanbca26@gmail.com
+
 
 ## Skills & Tools
 
