@@ -40,7 +40,7 @@
 
 ## Featured Projects
 
-| Project | Description | Repo & Demo Link |
+| Project | Description | Repo Link |
 |--------|-------------|-----------|
 | Roadsentinel | AI Traffic Violation Reporting System | [Repo](https://github.com/ZeeshanKhan-07/RoadSentinel) |
 | SimpliFind | AI Comment Insights | [Repo](https://github.com/ZeeshanKhan-07/SimpliFind) |
