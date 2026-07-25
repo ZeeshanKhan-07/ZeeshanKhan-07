@@ -1,21 +1,34 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=FFC800&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hiii+%F0%9F%91%8B+I'm+Zeeshan+Khan%2C+Software+Developer&duration=4000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=6CD56C&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hii+%F0%9F%91%8B+I'm+Zeeshan+Khan%2C+A+Software+Developer.&duration=4000" alt="Typing SVG" />
 </h1>
-# 💫 About Me:
-🚀 Backend-Focused Full Stack Developer | Java & Spring Boot Specialist<br>🌱 Building Scalable Full Stack Applications with Spring Boot & React<br>💡 Skilled in Java, Spring Boot, REST APIs, Hibernate, MySQL<br>⚛️ Working with ReactJS for dynamic and responsive frontend development<br>🧠 Strong in Data Structures & Algorithms (DSA) | Problem Solver<br>🎯 Focused on building secure, scalable, and high-performance backend systems<br>🔍 Passionate about System Design & Modern Web Architectures
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=BCA+Graduate.+%7C+Software+Developer." alt="Typing SVG" />
+</h3>
+
+## A Bit About Me
+### Building products that people actually use.
+### Building AI-powered full-stack products that solve real-world problems.
+
+## Socials:
+#### » LinkedIn      → https://www.linkedin.com/in/zeeshan-dev07/
+#### » Leetcode      → https://leetcode.com/u/leet_zeeshan/
+#### » Email         → zeeshankhanbca26@gmail.com
+
+## Skills & Tools
+
+#### » Programming Languages: Java, Python, JavaScript, TypeScript
+#### » Frameworks & Libraries: Spring Boot, Spring Security (JWT, OAuth2), Node.js, Express.js, React.js, Tailwind CSS, GSAP
+#### » Databases & Backend Services: MySQL, PostgreSQL, MongoDB, Cloudinary, Supabase
+#### » Tools & DevOps: Git, GitHub, Postman, AWS (EC2)
+#### » Design: Figma
+#### » Core Concepts: Microservices, Design Patterns, SOLID Principles, Data Structures & Algorithms, OOP, DBMS
+#### » Achievements: Solved 580+ LeetCode problems with a 170+ day consistency streak in DSA practice.
+#### » AI Tools: ChatGPT, GitHub Copilot, Claude Code, Cursor AI, Google Gemini, 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-dev07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeeshan.dev05@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZeeshanKhan-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZeeshanKhan-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanKhan-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ZeeshanKhan-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
