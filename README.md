@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=BCA+Graduate+%7C+Software+Developer" alt="Typing SVG" />
 </h3>
 
+---
+
 ## About Me
 
 ```text
@@ -13,11 +15,15 @@
  Developing AI powered full stack products that solve real world problems.
 ```
 
+---
+
+
 ## Socials
 - **» LinkedIn:** https://www.linkedin.com/in/zeeshan-dev07/
 - **» LeetCode:** https://leetcode.com/u/leet_zeeshan/
 - **» Email:** zeeshankhanbca26@gmail.com
 
+---
 
 ## Skills & Tools
 
@@ -30,11 +36,17 @@
 - **» Achievements:** Solved 580+ LeetCode problems with a 170+ day consistency streak in DSA practice.
 - **» AI Tools:** ChatGPT, GitHub Copilot, Claude Code, Cursor AI, Google Gemini
 
+---
 
+## Featured Projects
 
+| Project | Description | Repo & Demo Link |
+|--------|-------------|-----------|
+| Roadsentinel | AI Traffic Violation Reporting System | [Repo](https://github.com/ZeeshanKhan-07/RoadSentinel) |
+| SimpliFind | AI Comment Insights | [Repo](https://github.com/ZeeshanKhan-07/SimpliFind) |
+| PathForge | AI Career Navigator | [Repo](https://github.com/ZeeshanKhan-07/Pathforge-AI) |
+| CivicPulse | Smart City Portal | [Repo](https://github.com/ZeeshanKhan-07/CivicPulse-Smart-City-Portal) |
 
-
-
-
+---
 
 
