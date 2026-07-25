@@ -21,16 +21,14 @@
 
 ## Skills & Tools
 
-```text
-» Programming Languages:** Java, Python, JavaScript, TypeScript
-» Frameworks & Libraries:** Spring Boot, Spring Security (JWT, OAuth2), Node.js, Express.js, React.js, Tailwind CSS, GSAP
-» Databases & Backend Services:** MySQL, PostgreSQL, MongoDB, Cloudinary, Supabase
-» Tools & DevOps:** Git, GitHub, Postman, AWS (EC2)
-» Design:** Figma
-» Core Concepts:** Microservices, Design Patterns, SOLID Principles, Data Structures & Algorithms, OOP, DBMS
-» Achievements:** Solved 580+ LeetCode problems with a 170+ day consistency streak in DSA practice.
-» AI Tools:** ChatGPT, GitHub Copilot, Claude Code, Cursor AI, Google Gemini
-```
+- **» Programming Languages:** Java, Python, JavaScript, TypeScript
+- **» Frameworks & Libraries:** Spring Boot, Spring Security (JWT, OAuth2), Node.js, Express.js, React.js, Tailwind CSS, GSAP
+- **» Databases & Backend Services:** MySQL, PostgreSQL, MongoDB, Cloudinary, Supabase
+- **» Tools & DevOps:** Git, GitHub, Postman, AWS (EC2)
+- **» Design:** Figma
+- **» Core Concepts:** Microservices, Design Patterns, SOLID Principles, Data Structures & Algorithms, OOP, DBMS
+- **» Achievements:** Solved 580+ LeetCode problems with a 170+ day consistency streak in DSA practice.
+- **» AI Tools:** ChatGPT, GitHub Copilot, Claude Code, Cursor AI, Google Gemini
 
 
 
